@@ -1,0 +1,14 @@
+.charway{
+      background-color: aqua;
+      
+  } 
+  .img-src{
+
+    background-image: url('image/img.jpg')
+  }
+.anyname{
+
+    font-family: 'Times New Roman';
+    font-size: 30px;
+    color: blueviolet;
+  }
